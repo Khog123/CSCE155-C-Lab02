@@ -120,4 +120,4 @@ c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
 Answer: 
 the area is 8.000000 square units.
-I increased the precedance level of base*triangle by include parenthesis and then divide them by 2 like that ()
+I increased the precedance level of base*triangle by include parenthesis and then divide them by 2 like that (base*height)/2.

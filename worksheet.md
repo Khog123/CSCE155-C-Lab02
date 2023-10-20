@@ -73,11 +73,19 @@ Hello, 99. You are 0 years, 0 weeks, and 0 days old today.
 the exchange amounts for the following inputs:
 
   a) $250.25
+  Answer:
+  Half of the Dollar exchange to 88.9639 GBP
+  half of hte Dollar exchange to 14374 JPY
 
   b) $1,000.52
+  Answer: 
+  Half of the Dollar exchange to 355.5 GBP
+  Half of the Dollar exchange to 57442 JPY
 
   c) $968,410.12
-
+Answer: 
+Half of the Dollar exchange to 344270 GBP
+Half of the Dollar exchange to 55627898 JPY
 
 
 6. Suppose that you had used only `int` types

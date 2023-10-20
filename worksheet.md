@@ -10,6 +10,10 @@ Name(s) and Login(s):
 was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
+Answer:
+Today is 2023/10/05
+Your birthday was 1841/09/09
+Hello, Dennis. You are 0 years, 0 weeks, and 0 daysold today
 
 
 
@@ -17,7 +21,7 @@ program on the appropriate inputs and enter your solution here.
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
-
+Answer:
 
 
 
@@ -27,6 +31,7 @@ referred to as *fuzzing*).  Try breaking the `birthday_cli`
 program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
+
 
 
 

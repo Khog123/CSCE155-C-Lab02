@@ -59,4 +59,3 @@ int main(int argc, char **argv) {
   printf("Hello, %s.  You are %d years, %d weeks, and %d days old today\n", name, years, weeks, days);
 
 }
-it 

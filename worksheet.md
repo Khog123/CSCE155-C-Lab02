@@ -22,6 +22,9 @@ Hello, Dennis. You are 0 years, 0 weeks, and 0 daysold today
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
 Answer:
+Today is 2023/10/05
+Your birthday was 1950/12/30
+Hello, Bjarne. You are 0 years, 0 weeks, and 0 days old today.
 
 
 

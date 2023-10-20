@@ -102,11 +102,22 @@ No because int can store the number upto 32 bit and the given number greater so 
 
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
+Answer:
+Value: The area is 0.000000 square units.
+Not giving the correct answer use formula incorrectly because the precedance level of / and * same. 
+
 
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
+Answer:
+Value: The area is 0.000000 square units.
+Not giving the correct ansswer use formula because the precedance level of / and * same.
+
 
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+Answer: 
+the area is 8.000000 square units.
+I increased the precedance level of base*triangle by include parenthesis and then divide them by 2 like that ()

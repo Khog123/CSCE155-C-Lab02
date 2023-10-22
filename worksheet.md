@@ -11,9 +11,9 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 Answer:
-Today is 2023/10/05
+Today is 2023/10/22
 Your birthday was 1841/09/09
-Hello, Dennis. You are 0 years, 0 weeks, and 0 daysold today
+Hello, Dennis. You are -68 years, -2 weeks, and -4 days old today
 
 
 

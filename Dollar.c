@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    float dollar, exchangeFee, dollarPerPound, totalAmountDollar;
-    int dollarPerYen;
+   float dollar, exchangeFee, dollarPerPound, totalAmountDollar;
+   float dollarPerYen;
 
     printf("Enter the amount in Dollar:");
     scanf("%f",&dollar);

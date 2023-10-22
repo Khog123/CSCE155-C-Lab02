@@ -84,8 +84,8 @@ the exchange amounts for the following inputs:
 
   c) $968,410.12
 Answer: 
-Half of the Dollar exchange to 344270 GBP
-Half of the Dollar exchange to 55627898 JPY
+Half of the Dollar exchange to 357.192017 GBP
+Half of the Dollar exchange to 65270.304688 JPY
 
 
 6. Suppose that you had used only `int` types
